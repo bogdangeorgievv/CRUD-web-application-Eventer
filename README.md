@@ -48,10 +48,13 @@ Mock login details:
 Email: john@abv.bg 
 Password: 123456
 
-Once logged in you can Add/Delete Events :
+Once logged in you can Add/Delete/Edit Events :
 ![image](https://github.com/bogdangeorgievv/CRUD-web-application-Eventer/assets/140177649/e9f45480-3779-400d-9864-06b9175f7712)
 
 ![image](https://github.com/bogdangeorgievv/CRUD-web-application-Eventer/assets/140177649/70d88f46-eda1-4342-9eb7-87f5d4c59158)
+
+![image](https://github.com/bogdangeorgievv/CRUD-web-application-Eventer/assets/140177649/e7cc4c35-d535-4b0a-9869-dbd4bc79dc38)
+
 
 
 
