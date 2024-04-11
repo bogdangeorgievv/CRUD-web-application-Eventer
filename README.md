@@ -10,13 +10,21 @@ It is made using __**HTML, CSS, JavaScript, Page.js, lit-html.js**__
 
 To launch the app, follow these simple steps:
 
-1. Open your console and enter:
+1. Open your terminal and run the following command:
+   
+
+![image](https://github.com/bogdangeorgievv/CRUD-web-application-Eventer/assets/140177649/56caa231-4003-48b1-b9b8-396192ff06c2)
+
+
+This command will install all the necessary dependencies, and you should see a node_modules folder appear in your project directory.
+
+2. Open your console and enter:
 
 ![image](https://github.com/bogdangeorgievv/CRUD-web-application-Eventer/assets/140177649/3183b50c-4383-4288-bd9b-1f2c3ad4ecd3)
 
 This will initiate the HTTP server, which will be accessible at http://localhost:3000.
 
-2. Activate the server:
+3. Activate the server:
 
 In a new terminal window, navigate to the server folder and execute:
 
