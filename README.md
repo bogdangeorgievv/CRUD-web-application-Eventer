@@ -5,6 +5,9 @@ It is made using __**HTML, CSS, JavaScript, Page.js, lit-html.js**__
 
 *The focus on that website is functionality, rather than appearance*
 
+<br>
+<br>
+
 To launch the app, follow these simple steps:
 
 1. Open your console and enter:
