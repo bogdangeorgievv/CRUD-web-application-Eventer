@@ -37,7 +37,7 @@ async function request(method, url, data) {
             return response.json();
         }
     } catch (err) {
-        //TODO Add custom error handling and visualization based on exam requirements.
+        
         alert(err.message);
         throw err;
     }

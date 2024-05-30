@@ -65,7 +65,7 @@ export async function showDetails(ctx) {
       }
     }
 
-    async function onGoing() { //bonus
+    async function onGoing() { 
       await goToEvent(id);
       page.redirect('/catalog/' + id);
     }
