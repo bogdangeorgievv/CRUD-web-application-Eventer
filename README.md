@@ -12,23 +12,15 @@ This application is a single-page web application (SPA) designed to provide a se
 
 <h1>Getting started:</h1>
 
-1. Clone this repository to your local machine.
-   
-2. Open your terminal and run the following command:
-   
+1. Clone this repository
 
-![image](https://github.com/bogdangeorgievv/CRUD-web-application-Eventer/assets/140177649/56caa231-4003-48b1-b9b8-396192ff06c2)
-
-
-This command will install all the necessary dependencies, and you should see a node_modules folder appear in your project directory.
-
-3. Open your console and enter:
+2. Open your console and enter:
 
 ![image](https://github.com/bogdangeorgievv/CRUD-web-application-Eventer/assets/140177649/3183b50c-4383-4288-bd9b-1f2c3ad4ecd3)
 
 This will initiate the HTTP server, which will be accessible at http://localhost:3000.
 
-4. Activate the server:
+3. Activate the server:
 
 In a new terminal window, navigate to the server folder and execute:
 
